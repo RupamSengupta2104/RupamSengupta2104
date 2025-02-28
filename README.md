@@ -6,8 +6,8 @@
 
 💞️ I’m looking to collaborate on data-driven projects, automation in analytics, and knowledge-sharing in the data community.
 
-📫 You can reach me on LinkedIn.
+📫 You can reach me on LinkedIn:https://www.linkedin.com/in/rupam-sengupta-da
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I like finding ways to reach the other side of the riverbank without swimming—because, well, we’re not in the ape-man era anymore!
+⚡ Fun fact: I speak SQL and Python more than my native language.
